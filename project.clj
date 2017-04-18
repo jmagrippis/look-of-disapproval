@@ -1,6 +1,6 @@
 (defproject look-of-disapproval "0.1.0-SNAPSHOT"
   :description "A modest endpoint that returns the infamous look of disapproval: ಠ_ಠ"
-  :url "http://example.com/FIXME"
+  :url "https://the-look-of-disapproval.herokuapp.com/"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [compojure "1.5.1"]
