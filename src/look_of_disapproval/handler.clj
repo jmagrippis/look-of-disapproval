@@ -11,7 +11,7 @@
       {:status 200
        :body {:response_type "in_channel"
        :text (if (and text (not= text ""))
-               (str "> " text " \"\n\" ಠ_ಠ")
+               (str "> " text "\nಠ_ಠ")
                "ಠ_ಠ")}}))
   (route/not-found "Not Found"))
 
